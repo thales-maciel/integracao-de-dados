@@ -1,0 +1,51 @@
+id,department,market,wage
+1,Research and Development,Grocery,$2811.26
+2,Research and Development,Shoes,$2623.82
+3,Engineering,Clothing,$2694.60
+4,Services,Sports,$2587.09
+5,Support,Tools,
+6,Sales,Garden,$2915.05
+7,Research and Development,Beauty,$1188.49
+8,Research and Development,Electronics,$1043.03
+9,Legal,Grocery,
+10,Human Resources,Garden,$1102.49
+11,Marketing,Movies,
+12,Research and Development,Industrial,$2719.69
+13,Sales,Beauty,$2625.25
+14,Marketing,Industrial,
+15,Engineering,Health,$2593.12
+16,Human Resources,Sports,$1791.45
+17,Product Management,Music,$2088.30
+18,Accounting,Garden,
+19,Legal,Kids,
+20,Marketing,Electronics,$2788.21
+21,Engineering,Movies,
+22,Services,Jewelery,$1966.84
+23,Engineering,Beauty,
+24,Business Development,Beauty,$2335.75
+25,Business Development,Garden,$771.06
+26,Services,Music,$2218.11
+27,Legal,Sports,$2455.70
+28,Research and Development,Baby,$2285.26
+29,Marketing,Shoes,$902.26
+30,Engineering,Movies,$1157.04
+31,Engineering,Outdoors,$596.02
+32,Human Resources,Books,
+33,Human Resources,Health,$1753.04
+34,Accounting,Games,$866.22
+35,Accounting,Tools,$1339.55
+36,Research and Development,Games,$802.62
+37,Sales,Garden,
+38,Sales,Sports,$948.45
+39,Business Development,Toys,$2315.27
+40,Services,Electronics,$2224.91
+41,Human Resources,Shoes,$1686.02
+42,Engineering,Tools,$2574.14
+43,Human Resources,Home,$1968.64
+44,Sales,Books,
+45,Research and Development,Kids,$1952.92
+46,Legal,Health,$576.13
+47,Accounting,Garden,$653.67
+48,Product Management,Automotive,$997.28
+49,Training,Grocery,$2263.75
+50,Sales,Home,$2374.67

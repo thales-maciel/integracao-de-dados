@@ -1,0 +1,4 @@
+[flake8]
+docstring-convention = pep257
+max-line-length = 88
+extend-ignore = E203
