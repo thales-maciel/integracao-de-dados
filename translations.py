@@ -1,0 +1,38 @@
+MARKET_TRANSLATIONS: dict = {
+    "Grocery": "Mercado",
+    "Shoes": "Calçados",
+    "Clothing": "Vestuário",
+    "Sports": "Esportes",
+    "Tools": "Ferramentas",
+    "Garden": "Jardim",
+    "Beauty": "Beleza",
+    "Eletronics": "Eletrônicos",
+    "Movies": "Filmes",
+    "Industrial": "Industrial",
+    "Health": "Saúde",
+    "Music": "Música",
+    "Kids": "Infantil",
+    "Jewelery": "Jóias",
+    "Baby": "Bebês",
+    "Outdoors": "Outdoors",
+    "Books": "Livros",
+    "Toys": "Brinquedos",
+    "Home": "Casa",
+    "Automotive": "Automotivo",
+}
+
+
+DEPARTMENT_TRANSLATIONS = {
+    "Research and Development": "Pesquisa e Desenvolvimento",
+    "Engineering": "Engenharia",
+    "Services": "Serviços",
+    "Support": "Suporte",
+    "Sales": "Vendas",
+    "Legal": "Jurídico",
+    "Human Resources": "Recursos Humanos",
+    "Marketing": "Marketing",
+    "Product Management": "Gestão de produtos",
+    "Accounting": "Contabilidade",
+    "Business Development": "Desenvolvimento",
+    "Training": "Treinamento",
+}
